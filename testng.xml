@@ -1,0 +1,7 @@
+<suite name="Java Selenium Tests">
+    <test name="BasicTests">
+        <classes>
+            <class name="tests.LaunchBrowsers"/>
+        </classes>
+    </test>
+</suite>
