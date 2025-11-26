@@ -1,5 +1,6 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
 <suite name="Java Selenium Tests">
-    <test name="BasicTests">
+    <test name="My Selenium Tests">
         <classes>
             <class name="tests.LaunchBrowsers"/>
         </classes>
