@@ -40,3 +40,9 @@ build/
 
 ### Test Output ###
 test-output/
+
+### Reports ###
+reports/
+
+### Screenshots ###
+screenshots/
